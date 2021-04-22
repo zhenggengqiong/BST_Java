@@ -364,18 +364,18 @@ public void postOrderTraverse() {
 
 ####  实验结果
 
-![image-20210422102814748](/Users/zhenggengqiong/Library/Application Support/typora-user-images/image-20210422102814748.png)
+![image-20210422102814748](https://tva1.sinaimg.cn/large/008i3skNgy1gpsbeytaxcj30mc0cgwg0.jpg)
 
-![image-20210422102820519](/Users/zhenggengqiong/Library/Application Support/typora-user-images/image-20210422102820519.png)
+![image-20210422102820519](https://tva1.sinaimg.cn/large/008i3skNgy1gpsbf0rr41j30ls0dejss.jpg)
 
-![image-20210422102824940](/Users/zhenggengqiong/Library/Application Support/typora-user-images/image-20210422102824940.png)
+![image-20210422102824940](https://tva1.sinaimg.cn/large/008i3skNgy1gpsbeznlrcj30lk0e4dhf.jpg)
 
-![image-20210422102829373](/Users/zhenggengqiong/Library/Application Support/typora-user-images/image-20210422102829373.png)
+![image-20210422102829373](https://tva1.sinaimg.cn/large/008i3skNgy1gpsbf057d8j30m40domyp.jpg)
 
-![image-20210422102835379](/Users/zhenggengqiong/Library/Application Support/typora-user-images/image-20210422102835379.png)
+![image-20210422102835379](https://tva1.sinaimg.cn/large/008i3skNgy1gpsbez8jv9j30ke0bkjsp.jpg)
 
-![image-20210422102839433](/Users/zhenggengqiong/Library/Application Support/typora-user-images/image-20210422102839433.png)
+![image-20210422102839433](https://tva1.sinaimg.cn/large/008i3skNgy1gpsbf2k47bj30ki0bimyi.jpg)
 
-![image-20210422102843389](/Users/zhenggengqiong/Library/Application Support/typora-user-images/image-20210422102843389.png)
+![image-20210422102843389](https://tva1.sinaimg.cn/large/008i3skNgy1gpsbf2wmolj30jc0a00tp.jpg)
 
-![image-20210422102847870](/Users/zhenggengqiong/Library/Application Support/typora-user-images/image-20210422102847870.png)
+![image-20210422102847870](https://tva1.sinaimg.cn/large/008i3skNgy1gpsbf1nhtqj30iu03u0su.jpg)
